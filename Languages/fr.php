@@ -141,14 +141,14 @@ return [
   'error' => 'Erreur',
 
   // Domain
-  'subdomain_integration' => 'Subdomain support',
-  'server_ip_address' => 'Server IP Address',
-  'memory' => 'Memory',
-  'plan' => 'Plan',
-  'plan_subdomain' => 'Plan subdomain',
+  'subdomain_integration' => 'Support sous-domaines',
+  'server_ip_address' => 'IP du serveur :',
+  'memory' => 'Mémoire :',
+  'plan' => 'Offre',  
+  'plan_subdomain' => 'Sous-domaine',
   'zone' => 'Zone',
-  'invoices' => 'Invoices',
-  'plan_error' => 'Your plan does not support creating a subdomain',
+  'invoices' => 'Factures',
+  'plan_error' => 'Votre offre ne prend pas en charge la création d\'un sous-domaine',
 
   // Portal
   'portal_sw_mode' => 'Mode sombre/lumineux',
